@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam Czyzycki</h1>
 <h3 align="center">I am a first-year Honours Business Technology Management Co-op student at Toronto Metropolitan University. While I’m just starting out with coding, I’m super passionate about it and love diving into new projects in my free time. I mostly code for fun, trying out new things, learning as I go, and working on cool side projects when I can. It's all about experimenting, having fun, and getting better along the way!</h3>
 
-- 🔭 I’m currently working on a [Valentines project](https://github.com/miythyi/Valentines-Project)
+- 🔭 I’m currently working on [Valentines project](https://github.com/miythyi/Valentines-Project)
 
 - 📫 How to reach me **aczyzycki@torontomu.ca**
 
