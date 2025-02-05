@@ -19,3 +19,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miythyi&show_icons=true&theme=dark&locale=en" alt="miythyi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miythyi&theme=dark" alt="miythyi" /></p>
+
+<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
